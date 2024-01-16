@@ -22,5 +22,4 @@ Audio saved to: /root/android/TLbcSexf.wav
 meterpreter >
 ```
 Tuturial:
-https://youtu.be/WDRiazpjrwk?si=kY3CVy4QxuU-zTD4
-
+https://drive.google.com/file/d/16A04UXXqvm8R--Tk4vuHnf33qJEuiRsk/view?usp=drivesdk
