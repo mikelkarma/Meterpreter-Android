@@ -21,9 +21,8 @@ meterpreter > record_mic -d 5
 Audio saved to: /root/android/TLbcSexf.wav
 meterpreter >
 ```
-Tuturial:
 
-Editing through Android Studio:
+Setting:
 
 Open the file: Nous/app/src/main/java/nous/client/Payload.java
 
