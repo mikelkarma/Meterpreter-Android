@@ -31,8 +31,5 @@ On line 26 edit your host and Port.
 public static final String URL = "ZZZZtcp://Host:Port
 ```
 
-On line 123 you can adjust the metasploit stage waiting time:
-```
-sock.setSoTimeout(1000);
-```
+
 
