@@ -22,8 +22,6 @@ Audio saved to: /root/android/TLbcSexf.wav
 meterpreter >
 ```
 
-Habilite as permissão de inicialização automática e configuração restrita.
-
 Setting:
 
 Open the file: Nous/app/src/main/java/nous/client/Payload.java
