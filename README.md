@@ -31,5 +31,4 @@ On line 26 edit your host and Port.
 public static final String URL = "ZZZZtcp://Host:Port
 ```
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/Kwcr8T7V2_Q?si=0iEVAilh98anLtj9)
-Result
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/Kwcr8T7V2_Q?si=0iEVAilh98anLtj9)
