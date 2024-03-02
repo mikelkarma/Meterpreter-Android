@@ -31,4 +31,8 @@ On line 26 edit your host and Port.
 public static final String URL = "ZZZZtcp://Host:Port
 ```
 
+Compiler:
+https://github.com/LGLTeam/AIDE-Mods
+
+Video:
 https://youtu.be/Kwcr8T7V2_Q?si=0iEVAilh98anLtj9
