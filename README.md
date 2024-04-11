@@ -34,5 +34,6 @@ public static final String URL = "ZZZZtcp://Host:Port
 Compiler:
 https://github.com/LGLTeam/AIDE-Mods
 
-Video:
-https://youtu.be/Kwcr8T7V2_Q?si=0iEVAilh98anLtj9
+Meterpreter with the Tor network:
+File Payload.java
+This file is Java code that can be used to establish a remote connection to a target system. Modifications made to the code allow it to connect through a SOCKS5 proxy and to
