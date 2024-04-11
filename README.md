@@ -34,6 +34,8 @@ public static final String URL = "ZZZZtcp://Host:Port
 Compiler:
 https://github.com/LGLTeam/AIDE-Mods
 
-Meterpreter with the Tor network:
-File Payload.java
-This file is Java code that can be used to establish a remote connection to a target system. Modifications made to the code allow it to connect through a SOCKS5 proxy and to
+## Meterpreter with the Tor network:
+```Payload.java```
+This file is a Java code that can be used to establish a remote connection with a target system. The modifications made to the code allow it to connect through a SOCKS5 proxy and access a .onion domain, which is a part of the internet accessible only through the Tor network.
+
+The modified part of the code sets up a TCP connection using a local SOCKS5 proxy (127.0.0.1:9050) to connect to the specified .onion domain. This allows the code to communicate with the target system securely and anonymously, protecting the attacker's privacy.
