@@ -34,8 +34,6 @@ public static final String URL = "ZZZZtcp://Host:Port
 Compiler:
 https://github.com/LGLTeam/AIDE-Mods
 
-Claro, aqui está um exemplo de um README em inglês explicando o aplicativo malicioso:
-
 ---
 
 # Tor Network "NousTor.zip"
