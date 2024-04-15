@@ -56,6 +56,6 @@ This application is created for educational purposes only and should not be used
 Unauthorized use and distribution of this application may violate local, state, and federal laws. The developer disclaims any liability for the misuse of this application. Use at your own risk.
 
 ## Support:
-For questions or support, please contact the developer at [NousMik@proton.com]
+For questions or support, please contact the developer at NousMik@proton.me
 
 ---
