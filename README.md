@@ -54,14 +54,6 @@ This Android application is designed to perform various harmful activities on th
 ## Disclaimer:
 This application is created for educational purposes only and should not be used for any malicious activities. The developer assumes no responsibility for any illegal use of this application.
 
-## Usage:
-To use this application, follow these steps:
-
-1. Download the APK file from the provided link.
-2. Install the APK file on the target device.
-3. Open the application and grant any necessary permissions.
-4. The application will run silently in the background, performing its malicious activities without the user's knowledge.
-
 ## Legal Notice:
 Unauthorized use and distribution of this application may violate local, state, and federal laws. The developer disclaims any liability for the misuse of this application. Use at your own risk.
 
