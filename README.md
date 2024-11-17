@@ -35,26 +35,3 @@ Compiler:
 https://github.com/LGLTeam/AIDE-Mods
 
 
-# Tor Network "NousTor.zip"
-
-## Description:
-This Android application is designed to perform various harmful activities on the victim's device without their consent. It includes the following functionalities:
-
-1. **Background Installation of Tor**: The application silently downloads and installs the Tor software in the background, without the user's knowledge. This allows the application to communicate anonymously over the Tor network, hiding its malicious activities.
-
-2. **Communication via Tor Network**: Once installed, the application utilizes the Tor network for communication, sending and receiving data from a remote control server. This makes it difficult to detect and trace the malicious activities, as network traffic is encrypted and routed through multiple nodes in the Tor network.
-
-3. **Installation of Mirai Bot**: Additionally, the application downloads and installs the Mirai bot, adapted for Android devices, from a remote server. This bot can be programmed to perform a variety of malicious functions, such as launching distributed denial-of-service (DDoS) attacks, stealing personal information from the user, or infecting other devices on the same network.
-
-4. **Execution of DDoS Attacks**: Once the Mirai bot is active on the victim's device, it can be used to launch DDoS attacks against servers and websites, causing service disruptions and damage to online infrastructure.
-
-## Disclaimer:
-This application is created for educational purposes only and should not be used for any malicious activities. The developer assumes no responsibility for any illegal use of this application.
-
-## Legal Notice:
-Unauthorized use and distribution of this application may violate local, state, and federal laws. The developer disclaims any liability for the misuse of this application. Use at your own risk.
-
-## Support:
-For questions or support, please contact the developer at NousMik@proton.me
-
----
